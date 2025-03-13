@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&repeat=false&width=435&lines=Hello+there!+I'm+JB)](https://git.io/typing-svg)
 
 <h2 align="left">7+ years building production-grade applications with clean patterns and modern UI.
-Focus: Scalable architecture, accessibility, type-safe components and integrations.</h2>
+Focus: Scalable architecture, accessibility, type-safe components and API integrations.</h2>
 
 <h3>Core Expertise</h3>
 
