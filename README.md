@@ -12,6 +12,6 @@ Focus: Scalable architecture, accessibility, type-safe components and API integr
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<h4>My complete portfolio and demos are available in my website <a href="https://jblanco.dev/">jblanco.dev</a></h4>
+<h4>My complete portfolio and demos are available in my website <a href="https://jblanco.dev/" target="_blank">jblanco.dev</a></h4>
 <h4>Reach me anytime at <a href="mailto:contact@jblanco.dev">contact@jblanco.dev</a></h4>
 <h4>Download my complete <a href="https://jblanco.dev/assets/jesus-blanco-resume.pdf">resume</a></h4>
