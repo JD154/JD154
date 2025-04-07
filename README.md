@@ -6,7 +6,7 @@
 
 ## Building Scalable Solutions with Type Safety & Accessibility
 
-### 7+ years creating production-grade applications with modern patterns
+### 6+ years creating production-grade applications with modern patterns
 
 ## 🛠️ Core Stack
 
