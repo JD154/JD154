@@ -4,7 +4,7 @@
 
 # JESÚS BLANCO
 
-### Senior Frontend Consultant · UI systems · Data-rich products
+### Senior Frontend Consultant · Design systems · Data-rich products
 
 <p>
   I turn complex product requirements into clear, maintainable interfaces — from<br />
@@ -35,22 +35,11 @@ I’m a self-taught frontend engineer with a product mindset and a soft spot for
 
 My work usually sits at the intersection of **frontend architecture**, **design systems**, **accessibility**, and **data visualization**. I care about code that stays understandable as the product, team, and requirements grow.
 
-## CURRENT FOCUS
+## HOW I WORK
 
-<table>
-  <tr>
-    <td><code>01</code></td>
-    <td><strong>Scalable frontend architecture</strong><br /><sub>Clear boundaries, reusable patterns, and foundations that are safe to extend.</sub></td>
-  </tr>
-  <tr>
-    <td><code>02</code></td>
-    <td><strong>Design systems with real leverage</strong><br /><sub>Components that encode product knowledge — not just visual consistency.</sub></td>
-  </tr>
-  <tr>
-    <td><code>03</code></td>
-    <td><strong>Interfaces for complex information</strong><br /><sub>Data-rich workflows that remain calm, readable, and useful.</sub></td>
-  </tr>
-</table>
+<p>
+  <strong>Audit before extending</strong> · <strong>Encode patterns in components</strong> · <strong>Make dense information feel calm</strong>
+</p>
 
 ## WHAT I BUILD
 
@@ -73,7 +62,15 @@ My work usually sits at the intersection of **frontend architecture**, **design 
 
 ## EXPLORE THE WORK
 
-The portfolio is the best place to see the interfaces, case studies, and systems behind this work.
+The portfolio is the best place to see the interfaces, case studies, and live demos behind this work.
+
+<p align="center">
+  <a href="https://ir.jblanco.dev/"><strong>I.R MANAGEMENT</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://inui.jblanco.dev/"><strong>INUI LIBRARY</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://onboarding.jblanco.dev/"><strong>INVESTOR ONBOARDING</strong></a>
+</p>
 
 <p align="center">
   <a href="https://jblanco.dev/projects"><strong>OPEN THE PORTFOLIO ↗</strong></a>
@@ -90,10 +87,14 @@ The portfolio is the best place to see the interfaces, case studies, and systems
   <img src="https://img.shields.io/badge/Astro-20262E?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
 </p>
 
-<p><strong>Languages & data layer</strong></p>
+<p><strong>Languages</strong></p>
 <p>
   <img src="https://img.shields.io/badge/TypeScript-20262E?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-20262E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</p>
+
+<p><strong>Data & state</strong></p>
+<p>
   <img src="https://img.shields.io/badge/GraphQL-20262E?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
   <img src="https://img.shields.io/badge/React_Query-20262E?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" />
 </p>
@@ -130,4 +131,3 @@ I’m currently booking new projects. If you have a project, product idea, or fr
 <div align="center">
   <sub><code>JBLANCO.DEV</code> · BUILT WITH CURIOSITY · ALWAYS EVOLVING</sub>
 </div>
-
