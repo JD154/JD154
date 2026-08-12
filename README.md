@@ -19,7 +19,7 @@
 
 ### 💡 About Me
 
-- 🧠 7 years crafting **production-grade frontend architectures** with React, Next.js & TypeScript.  
+- 🧠 8 years crafting **production-grade frontend architectures** with React, Next.js & TypeScript.  
 - 🏗️ Experienced in building **design systems**, reusable UI libraries & analytics dashboards.  
 - 🚀 Advocate for **clean code**, accessibility, and type safety.
 - 🧩 I love tinkering with hardware, automation, and home server setups.  
