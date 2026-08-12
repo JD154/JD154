@@ -17,7 +17,6 @@
   <a href="mailto:contact@jblanco.dev">Email ↗</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jesus-blanco-08682112a/">LinkedIn ↗</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
 </p>
 
 <sub><code>AVAILABLE FOR NEW PROJECTS</code> · 8 YEARS OF FRONTEND WORK</sub>
