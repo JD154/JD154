@@ -1,82 +1,133 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" alt="Header Divider" />
-</div>
 
-<h1 align="center">👋 Hey there, I'm <strong>Jesús Blanco (JB)</strong></h1>
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" alt="Header Divider" />
 
-<p align="center">
-  <em>Senior Frontend Developer · Passionate about building scalable, accessible, and maintainable web experiences.</em>
+# JESÚS BLANCO
+
+### Senior Frontend Consultant · UI systems · Data-rich products
+
+<p>
+  I turn complex product requirements into clear, maintainable interfaces — from<br />
+  reusable component libraries to operational dashboards and full product workflows.
 </p>
 
-<p align="center">
-  <a href="https://jblanco.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:contact@jblanco.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jesus-blanco-08682112a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/JD154"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<p>
+  <a href="https://jblanco.dev"><strong>Portfolio ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:contact@jblanco.dev">Email ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jesus-blanco-08682112a/">LinkedIn ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/JD154">GitHub ↗</a>
 </p>
 
----
+<sub><code>AVAILABLE FOR NEW PROJECTS</code> · 8 YEARS OF FRONTEND WORK</sub>
 
-### 💡 About Me
+<p><em>“An evolution, the only way.”</em></p>
 
-- 🧠 8 years crafting **production-grade frontend architectures** with React, Next.js & TypeScript.  
-- 🏗️ Experienced in building **design systems**, reusable UI libraries & analytics dashboards.  
-- 🚀 Advocate for **clean code**, accessibility, and type safety.
-- 🧩 I love tinkering with hardware, automation, and home server setups.  
-
----
-
-### 🛠️ Core Stack
-
-#### Frontend & Architecture  
-![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-#### State & Data Layer  
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=flat&logo=redux&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3068B7?style=flat&logo=zod&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white)
-
-#### UI & Styling  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radix-ui&logoColor=white)
-![React Table](https://img.shields.io/badge/React_Table-FF4154?logo=reacttable&logoColor=fff)
-
----
-
-### 🌐 Complementary Tools
-
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)
-
----
-
-### 📈 Highlight Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **Real Estate Analytics Platform** | Built a full UI ecosystem powering data visualizations and predictive models for market insights. | React · Next.js · TypeScript · Mapbox · Storybook |
-| **Design System Library** | Architected a company-wide component library ensuring UI consistency across 5 internal apps. | React · Storybook · TailwindCSS |
-| **Vue Modernization Initiative** | Migrated a legacy Django app to a Vue/Nuxt architecture improving performance and scalability. | Vue · Nuxt.js · Vuetify |
-
----
-
-### ✉️ Let's Connect
-
-<div align="center">
-  <a href="mailto:contact@jblanco.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://jblanco.dev"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://jblanco.dev/Senior%20Frontend%20Developer,%20Jesus%20Blanco.pdf"><img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white"/></a>
 </div>
 
----
+<br />
+
+## ABOUT
+
+I’m a self-taught frontend engineer with a product mindset and a soft spot for the hard parts: shared UI foundations, dense data, complex workflows, and the details that make an interface feel inevitable.
+
+My work usually sits at the intersection of **frontend architecture**, **design systems**, **accessibility**, and **data visualization**. I care about code that stays understandable as the product, team, and requirements grow.
+
+## CURRENT FOCUS
+
+<table>
+  <tr>
+    <td><code>01</code></td>
+    <td><strong>Scalable frontend architecture</strong><br /><sub>Clear boundaries, reusable patterns, and foundations that are safe to extend.</sub></td>
+  </tr>
+  <tr>
+    <td><code>02</code></td>
+    <td><strong>Design systems with real leverage</strong><br /><sub>Components that encode product knowledge — not just visual consistency.</sub></td>
+  </tr>
+  <tr>
+    <td><code>03</code></td>
+    <td><strong>Interfaces for complex information</strong><br /><sub>Data-rich workflows that remain calm, readable, and useful.</sub></td>
+  </tr>
+</table>
+
+## WHAT I BUILD
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 · PRODUCT INTERFACES</strong><br />
+      <sub>Operational platforms, onboarding flows, finance modules, and dashboards that turn complicated work into a clear path.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 · UI FOUNDATIONS</strong><br />
+      <sub>Reusable, accessible component libraries and design systems that help teams move quickly without fragmenting the product.</sub>
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 · DATA EXPERIENCES</strong><br />
+      <sub>Charts, tables, regional views, and information-dense interfaces designed to stay legible under pressure.</sub>
+    </td>
+  </tr>
+</table>
+
+## EXPLORE THE WORK
+
+The portfolio is the best place to see the interfaces, case studies, and systems behind this work.
+
+<p align="center">
+  <a href="https://jblanco.dev/projects"><strong>OPEN THE PORTFOLIO ↗</strong></a>
+</p>
+
+## STACK
+
+<p><strong>Frontend & frameworks</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/React-20262E?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue-20262E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/Next.js-20262E?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Nuxt-20262E?style=flat-square&logo=nuxtdotjs&logoColor=00DC82" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Astro-20262E?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro" />
+</p>
+
+<p><strong>Languages & data layer</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-20262E?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-20262E?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GraphQL-20262E?style=flat-square&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/React_Query-20262E?style=flat-square&logo=reactquery&logoColor=FF4154" alt="React Query" />
+</p>
+
+<p><strong>UI systems</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-20262E?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Storybook-20262E?style=flat-square&logo=storybook&logoColor=FF4785" alt="Storybook" />
+</p>
+
+<p><strong>Visualization</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/amCharts-20262E?style=flat-square&logoColor=FFFFFF" alt="amCharts" />
+</p>
+
+<p><strong>Platform & delivery</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-20262E?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-20262E?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+</p>
+
+## LET’S WORK TOGETHER
+
+I’m currently booking new projects. If you have a project, product idea, or frontend challenge in mind, I’d love to hear about it.
+
+<p>
+  <a href="mailto:contact@jblanco.dev"><strong>START A CONVERSATION ↗</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://jblanco.dev/Senior%20Frontend%20Developer,%20Jesus%20Blanco.pdf"><strong>DOWNLOAD RÉSUMÉ ↗</strong></a>
+</p>
+
+<br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" width="100%" alt="Footer Divider" />
+  <sub><code>JBLANCO.DEV</code> · BUILT WITH CURIOSITY · ALWAYS EVOLVING</sub>
 </div>
+
